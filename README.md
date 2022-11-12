@@ -1,1 +1,1 @@
-# complete-ecommerce-aspnet-mvc-application-master
+# complete-ecommerce-aspnet-mvc-application
